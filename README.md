@@ -94,7 +94,7 @@ The script displays the image with the green bounding box, confirming successful
 
 This project successfully demonstrates the power of a classical computer vision pipeline in solving practical problems. By combining gradient analysis, morphological transformations, and contour detection, we can create a robust system for automating barcode detection. This approach is highly relevant for building applications in industrial, retail, and healthcare environments, where efficiency and accuracy are paramount.
 
-## 🚀 How to Use
+## How to Use
 
 To run this project on your local machine, follow these steps.
 
